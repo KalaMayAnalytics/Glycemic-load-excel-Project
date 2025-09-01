@@ -26,3 +26,16 @@ Excel (tabele, formuły, sumowanie, warunki logiczne).
 Formatowanie warunkowe dla wizualnej interpretacji wyników.
 
 Podstawy organizacji bazy danych w arkuszu.
+
+ChatGPT (OpenAI) jako wsparcie przy organizacji i dokumentacji projektu.
+
+⚠️ Zastrzeżenia
+
+Projekt ma charakter edukacyjny i analityczny – nie stanowi porady medycznej ani dietetycznej.
+
+Autorka nie jest lekarzem ani dietetykiem.
+
+Dane oraz obliczenia mogą być pomocne w analizie, ale nie mogą zastąpić profesjonalnej diagnozy ani planu żywieniowego.
+
+Autorka nie ponosi odpowiedzialności za skutki medyczne lub zdrowotne wynikające z wykorzystania projektu.
+
