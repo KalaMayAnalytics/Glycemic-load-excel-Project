@@ -31,7 +31,7 @@ ChatGPT (OpenAI) jako wsparcie przy organizacji i dokumentacji projektu.
 
 🚀 Jak korzystać
 
-1. Pobierz plik `Glycemic_load_calculator.xlsx` z repozytorium.
+1. Pobierz plik `GlycemicLoadCalculator_PL.xlsx` z repozytorium.
 
 2. Otwórz w Excelu (wersja 2019+ lub Microsoft 365).
    
@@ -41,6 +41,13 @@ ChatGPT (OpenAI) jako wsparcie przy organizacji i dokumentacji projektu.
    
 5. Sprawdź kolorowe oznaczenia, aby zinterpretować poziom ŁG.
 
+🖼️ Podgląd działania
+
+Baza produktów
+![Baza produktów](Screenshots/Baza%20Produktów.png)
+
+Kalkulator posiłku
+![Kalkulator posiłku](Screenshots/Kalkulator%20Posiłku.png)
 
 ⚠️ Zastrzeżenia
 
