@@ -29,6 +29,19 @@ Podstawy organizacji bazy danych w arkuszu.
 
 ChatGPT (OpenAI) jako wsparcie przy organizacji i dokumentacji projektu.
 
+🚀 Jak korzystać
+
+1. Pobierz plik `Glycemic_load_calculator.xlsx` z repozytorium.
+
+2. Otwórz w Excelu (wersja 2019+ lub Microsoft 365).
+   
+3. Wprowadź gramaturę produktów w odpowiednich polach.
+   
+4. Wyniki makroskładników i ŁG obliczają się automatycznie.
+   
+5. Sprawdź kolorowe oznaczenia, aby zinterpretować poziom ŁG.
+
+
 ⚠️ Zastrzeżenia
 
 Projekt ma charakter edukacyjny i analityczny – nie stanowi porady medycznej ani dietetycznej.
