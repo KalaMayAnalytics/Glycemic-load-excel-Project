@@ -1,7 +1,7 @@
 # Glycemic-load-excel-Project
 Opis projektu
 
-Ten arkusz w Excelu pozwala w prosty sposób obliczyć wartości odżywcze posiłków oraz ich ładunek glikemiczny (ŁG). Narzędzie automatycznie sumuje białko, tłuszcz, węglowodany przyswajalne, błonnik oraz energię (kcal), a dodatkowo wykorzystuje kolorowe oznaczenia do interpretacji wartości ŁG (niski/średni/wysoki).
+Ten arkusz w Excelu pozwala w prosty sposób obliczyć wartości odżywcze posiłków oraz ich ładunek glikemiczny (ŁG). Narzędzie automatycznie sumuje białko, tłuszcz, węglowodany przyswajalne i błonnik, a dodatkowo wykorzystuje kolorowe oznaczenia do interpretacji wartości ŁG (niski/średni/wysoki).
 
 ⚙️ Funkcjonalności
 
