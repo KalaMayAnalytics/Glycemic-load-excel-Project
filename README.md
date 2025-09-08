@@ -31,7 +31,8 @@ ChatGPT (OpenAI) jako wsparcie przy organizacji i dokumentacji projektu.
 
 🚀 Jak korzystać
 
-1. Pobierz plik `Excel/GlycemicLoadCalculator_PL.xlsx` z repozytorium.
+1. Pobierz plik [GlycemicLoadCalculator_PL.xlsx](Excel/GlycemicLoadCalculator_PL.xlsx)
+ z repozytorium.
 
 2. Otwórz w Excelu (wersja 2019+ lub Microsoft 365).
    
